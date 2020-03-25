@@ -1,6 +1,6 @@
 ## React-Nutrition-Label
 
-This is a simple nutrition label that will take in an object prop called 'food'.  It allows the number of servings to be selected, which will ajust all the values in the label.
+This is a simple nutrition label that will take in an object prop called 'food'.  It allows the number of servings to be selected, which will adjust all the values in the label.
 
 ### Dependencies:
 

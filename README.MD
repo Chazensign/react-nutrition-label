@@ -20,6 +20,7 @@ food = {<br/>
     nf_total_carbohydrate: number,<br/>
     nf_dietary_fiber: number,<br/>
     nf_sugars: number,<br/>
+    nf_added_sugars: number,<br/>
     nf_protein: number<br/>
   }
   
